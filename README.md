@@ -1,5 +1,5 @@
-# im-node
-im-node is a simple in-memory object cache.
+# im-cache
+im-cache is asimple and naive in-memory object cache.
 
 ## Install
 npm install im-cache
