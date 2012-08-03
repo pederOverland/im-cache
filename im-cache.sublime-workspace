@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n    \"name\" : \"im-cache\", \n    \"description\" : \"Simple in-memory cache for node.js\",\n    \"keywords\" : [\"cache\", \"in-memory\"],\n    \"version\" : \"0.1\",\n    \"author\" : {\n        \"name\" : \"Peder Hans Øverland\",\n        \"email\" : \"peder@alveroverland.com\"\n    },\n    \"contributors\" : [],\n    \"config\" : {\n    },\n    \"main\" : \"index.js\", \n    \"dependencies\" : { \n    },\n    \"licenses\" : [\n        {\n            \"type\" : \"MIT\",\n            \"url\" : \"http://www.opensource.org/licenses/mit-license.php\"\n        }\n    ]\n}",
+			"file": "/C/Projects/bservice/routes/package.json",
+			"file_size": 533,
+			"file_write_time": 129885002094088098,
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/bservice/routes/package.json",
+		"/C/Projects/bservice/package.json",
+		"/C/Projects/FjordlineNode/.gitignore",
+		"/C/Projects/FjordlineNode/package.json",
+		"/C/Users/pederh.REAKTOR/Desktop/data.json",
+		"/C/Users/pederh.REAKTOR/Desktop/newData.json",
+		"/C/Projects/TeamInternet/FjordLine/BugFix/FjordLineSolution/FjordLine.Web/packages.config",
+		"/C/Users/pederh.REAKTOR/Desktop/parse.js",
+		"/C/Users/pederh.REAKTOR/Downloads/vimond-VimondMSClientBase-v0.91-153-gde1967df0e08541062e55c3883296389e4bd4008/vimond-VimondMSClientBase-de1967df0e08541062e55c3883296389e4bd4008/.gitignore",
+		"/C/Users/pederh.REAKTOR/Downloads/vimond-VimondMSClientBase-v0.91-153-gde1967df0e08541062e55c3883296389e4bd4008/VimondMSClientBase/README",
+		"/C/Users/pederh.REAKTOR/Downloads/vimond-VimondMSClientBase-v0.91-153-gde1967df0e08541062e55c3883296389e4bd4008/vimond-VimondMSClientBase-de1967df0e08541062e55c3883296389e4bd4008/README"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Projects/bservice/routes/package.json",
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
