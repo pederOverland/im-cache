@@ -1,5 +1,5 @@
 # im-cache
-im-cache is asimple and naive in-memory object cache.
+im-cache is a simple and naive in-memory object cache.
 
 ## Install
 npm install im-cache
